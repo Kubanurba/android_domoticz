@@ -1,0 +1,2 @@
+rootProject.name='DomApp'
+include ':app', ':gradle-wrapper'
